@@ -1,6 +1,6 @@
-#Sistema de login no framework Laravel
+# Sistema de login no framework Laravel
 
-##Jetstream é para quem usa sistema de sessões.
+## Jetstream é para quem usa sistema de sessões.
 
 - Configurar credenciais do banco de dados no arquivo .env
 - Rodar: php artisan migrate
